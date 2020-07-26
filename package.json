@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@slack/events-api": "^2.3.3",
+    "@slack/web-api": "^5.10.0",
+    "node-fetch": "^2.6.0"
+  }
+}
