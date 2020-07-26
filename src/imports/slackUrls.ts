@@ -1,0 +1,1 @@
+export const setStatusUrl = 'https://slack.com/api/users.profile.set\?profile\=';
